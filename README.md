@@ -1,15 +1,15 @@
 👋 Olá, eu sou William Marsoli Luziano
 
-💻 Desenvolvedor / Estudante de programação
-🚀 Interessado em tecnologia, jogos e software
-📚 Atualmente aprendendo: Java, Kotlin e Git/GitHub
+- 💻 Desenvolvedor / Estudante de programação
+- 🚀 Interessado em tecnologia, jogos e software
+- 📚 Atualmente aprendendo: Java, Kotlin e Git/GitHub
 
 🧠 Sobre mim
 
-🎓 Estudante de programação - Sistemas da Informação - Senac
-💡 Gosto de criar projetos e aprender novas linguagens
-🎮 Curto jogos e tecnologia
-🌎 Brasil
+- 🎓 Estudante de programação - Sistemas da Informação - Senac
+- 💡 Gosto de criar projetos e aprender novas linguagens
+- 🎮 Curto jogos e tecnologia
+- 🌎 Brasil
 
 🛠 Tecnologias
 
@@ -19,5 +19,5 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSUARIO\&theme=dark)
 
-/![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=dark)
+
 
