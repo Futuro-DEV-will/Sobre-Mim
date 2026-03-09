@@ -1,5 +1,25 @@
-# Welcome to GitHub Desktop!
+👋 Olá, eu sou William Marsoli Luziano
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+💻 Desenvolvedor / Estudante de programação
+🚀 Interessado em tecnologia, jogos e software
+📚 Atualmente aprendendo: Java, Kotlin e Git/GitHub
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+🧠 Sobre mim
+
+🎓 Estudante de programação - Sistemas da Informação - Senac
+💡 Gosto de criar projetos e aprender novas linguagens
+🎮 Curto jogos e tecnologia
+🌎 Brasil
+
+🛠 Tecnologias
+
+- Java
+- Kotlin
+- Git
+
+/![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSUARIO\&theme=dark)
+
+/## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=dark)
+
