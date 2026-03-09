@@ -17,7 +17,7 @@
 - Kotlin
 - Git
 
-/![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSUARIO\&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSUARIO\&theme=dark)
 
-/[GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=dark)
 
