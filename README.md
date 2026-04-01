@@ -4,7 +4,7 @@
   </a>
   <br>
   
-  <a href="mailto:benbenjamim936@gmail.com" target="_blank">
+  <a href="mailto:william.mluziano@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
   &nbsp;
