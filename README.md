@@ -18,7 +18,7 @@
 <div align="left">
 <p>
 <h3><strong> 💻 My Skills </strong> </h3>
-<img src="https://skillicons.dev/icons?i=java,git,github,figma,kotlin,SpringBoot" width="35%">
+<img src="https://skillicons.dev/icons?i=java,git,github,figma,kotlin,Spring_Boot" width="35%">
 </p>  
 <p>  
 <h3><strong> 📖 Currently Studying </strong></h3>
