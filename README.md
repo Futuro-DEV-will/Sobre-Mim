@@ -4,8 +4,6 @@
   </a>
   <br>
   
-  <a href="mailto:william.mluziano@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/william-marsoli-luziano-779050222" target="_blank">
@@ -18,33 +16,39 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTMzZ2p1eDRwNGRhdWl2ZHhnaWx2NWpyeDdobTZmdDl6eWZnZWZ6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif" alt="coding cat" width="40%">
 
 ### 🧠 Sobre mim
-- 🎓 Estudante de **Sistemas da Informação** no **Senac**.
-- 🚀 Desenvolvedor focado no ecossistema **Java** e **Kotlin**.
-- 💡 Apaixonado por transformar ideias em código e aprender novas linguagens.
+
+- 🎓 Estudante de **Sistemas de Informação** no **Senac**.
+- 🎓 Formado no programa intensivo **PROProfissão** pelo **Instituto PROA** & **SENAC**, com vivência prática no desenvolvimento de ponta a ponta e metodologias ágeis (Scrum).
+- 🚀 Desenvolvedor focado no ecossistema **Java** e **Kotlin**, com experiência na construção de APIs (**Spring Boot**) e desenvolvimento mobile (**Android Studio / Jetpack Compose**).
+- 💡 Apaixonado por transformar ideias em código e aplicar tecnologias imersivas em projetos reais.
 - 🌎 Baseado no Brasil.
 
 ### 🚀 Projeto em Destaque: Cattleya
-- Atualmente desenvolvendo o **Cattleya**, um aplicativo voltado para o monitoramento gestacional e auxílio médico, utilizando tecnologias modernas para impactar a área da saúde.
+
+- Atualmente desenvolvendo o **Cattleya** *(pronuncia-se Catleia)*, um ecossistema voltado para o monitoramento gestacional e auxílio médico. O projeto integra tecnologias modernas para gerar impacto positivo e acessível na área da saúde.
+
+### 🗺️ Mapa de Carreira
+
+- Confira meu **mapa de carreira** em formato de currículo online: [william-code14.github.io/mapa-de-carreira](https://william-code14.github.io/mapa-de-carreira/)
 
 <hr>
 
 ### 💻 My Skills
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,git,github,figma&theme=dark" width="45%">
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,mongodb,git,github,figma&theme=dark" width="60%">
 
 ### 📖 Atualmente Estudando
+
 <img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql" width="25%">
 
 <hr>
 
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSUARIO\&theme=dark)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=William-code14&theme=dark" alt="GitHub Streak" />
+</div>
 
 <br>
 
 <div align="center">
   <sub>Dê uma olhada nos meus repositórios para conhecer meu trabalho! 🚀</sub>
 </div>
-
-
-
